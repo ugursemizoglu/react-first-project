@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ugursemizoglu/react-first-project.git/static/css/main.241951ba.css",
+    "main.js": "/ugursemizoglu/react-first-project.git/static/js/main.3aaf19f3.js",
+    "static/js/787.774594b4.chunk.js": "/ugursemizoglu/react-first-project.git/static/js/787.774594b4.chunk.js",
+    "static/media/logo.jpg": "/ugursemizoglu/react-first-project.git/static/media/logo.259a31f067ca17f2f6a3.jpg",
+    "index.html": "/ugursemizoglu/react-first-project.git/index.html",
+    "main.241951ba.css.map": "/ugursemizoglu/react-first-project.git/static/css/main.241951ba.css.map",
+    "main.3aaf19f3.js.map": "/ugursemizoglu/react-first-project.git/static/js/main.3aaf19f3.js.map",
+    "787.774594b4.chunk.js.map": "/ugursemizoglu/react-first-project.git/static/js/787.774594b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.3aaf19f3.js"
+  ]
+}
